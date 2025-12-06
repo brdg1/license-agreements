@@ -5,7 +5,7 @@ Version 1.0
 
 ## 1. Introduction
 
-This agreement (“Agreement”) governs the terms under which **Designers** contribute creative works (“Works”) to the **Bridge-Community** server and its related project **Bridge™**.
+This agreement (“Agreement”) governs the terms under which **Designers** contribute creative works (“Works”) to the **Bridge-Community** server and its related project **brdg™**.
 
 By accepting this Agreement, the Designer grants the Community specific usage rights described below.
 
@@ -36,7 +36,7 @@ The Designer grants the Community a **worldwide, perpetual, royalty-free, non-ex
 - **Modify** or adapt the Works for technical or branding purposes
 - **Display and distribute** the Works
 - Use the Works on the **server, websites, promotional material, and social media**
-- Incorporate the Works into the **Bridge-TM brand identity**
+- Incorporate the Works into the **brdg™ brand identity**
 
 This is a **license**, not a transfer of copyright ownership.
 
